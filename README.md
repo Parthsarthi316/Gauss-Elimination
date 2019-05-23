@@ -9,6 +9,6 @@ Solving n number of linear equations for their solutions using Gauss-Elimination
 Function solving(A,b) & main to call this function
 
 -------------------------------------------
-2.Pivoting
+ 2.Pivoting
 
 For Pivoting rest all the functions and mainthingie is the main for you to run
